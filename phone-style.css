@@ -1,0 +1,19 @@
+@media (max-width:480px){
+    body{
+        background-image: url(imgs/pattern-background-mobile.svg);
+    }
+    .illus img{
+        max-width: 100%;
+    }
+
+    .sections-container{
+        max-width: 360px;
+    }
+    .content{
+        padding: 2rem;
+    }
+    .content .description{
+        padding: 0rem 1rem;
+    }
+
+}
